@@ -48,19 +48,19 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.18.13",
-    "@babel/preset-env": "^7.18.10",
+    "@babel/core": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
     "acorn": "^8.8.0",
     "aliasify": "^2.1.0",
     "async": "~3.2.4",
-    "aws-sdk": "2.1208.0",
+    "aws-sdk": "2.1213.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.5",
     "backport": "^8.9.3",
     "blanket": "^1.2.3",
     "bluebird": "^3.7.2",
     "browserify": "^17.0.0",
-    "eslint": "8.23.0",
+    "eslint": "8.23.1",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "17.0.0",
     "eslint-plugin-import": "2.26.0",
@@ -69,7 +69,7 @@
     "eslint-plugin-promise": "6.0.1",
     "eslint-plugin-standard": "5.0.0",
     "expect.js": "^0.3.1",
-    "fast-glob": "^3.2.11",
+    "fast-glob": "^3.2.12",
     "find-root": "~1.1.0",
     "grunt": "^1.5.3",
     "grunt-cli": "^1.4.3",
@@ -97,7 +97,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "agentkeepalive": "^4.2.1",
-    "chalk": "^5.0.1",
+    "chalk": "^2.1.0",
     "lodash": "^4.17.21"
   },
   "resolutions": {
